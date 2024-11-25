@@ -2,7 +2,7 @@
 
 This is a 10-card memory game where users test their memory by finding matching pairs. Players select two cards at a time to check for a match, with the game concluding once all pairs are correctly matched.
 
-**Project Link:** 
+**Project Link:** https://fall-memory-matching-game.netlify.app/
 
 ## Features
 
